@@ -1,0 +1,37 @@
+{
+  "general": {
+    "prefix": "?",
+    "steamId": "76561199080226036",
+    "reconnectAttempts": "30",
+    "inGameCommands": "true"
+  },
+  "notifications": {
+    "enabled": "true",
+    "inGame": "true",
+    "cargoShip": "true",
+    "chinook47": "true",
+    "crate": "true",
+    "explosion": "true"
+  },
+  "alarms": {
+    "enabled": "true",
+    "inGame": "true"
+  },
+  "storageMonitors": {
+    "enabled": "true"
+  },
+  "discord": {
+    "token": "MTE3NTg0NzEyMTkyNTE5Nzk3NA.GavdBh.ZLluwvsFQdUVbT-yf5rzR_7x0dm1hohwbA4YIg",
+    "botSpamChannel": "1180945820686762135"
+  },
+  "rustplus": {
+    "fcmListener": "true",
+    "pairingNotifications": "true",
+    "inGamePairingNotifications": "true"
+  },
+  "rust": {
+    "serverIp": "64.52.81.217",
+    "appPort": "28092",
+    "playerToken": "1246515563"
+  }
+}
